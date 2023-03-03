@@ -3,6 +3,8 @@ body {
     background-color: #000000eb;
     background-image: url("../img/formation-developpeur-we-ecole-ewa-1.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 /* navbar  */
@@ -79,7 +81,7 @@ body {
     border-radius: 20px;
     width: 60vw;
     font-weight: 600;
-    box-shadow: 0 0 50px #ffffff97;
+    box-shadow: 0 0 50px #ffffff45;
 }
 
 h1 {
@@ -103,6 +105,6 @@ h1 {
     margin: 50px 0;
     word-spacing: 5px;
     text-justify: distribute;
-    font-size: 25px;
+    font-size: 18px;
 
 }
