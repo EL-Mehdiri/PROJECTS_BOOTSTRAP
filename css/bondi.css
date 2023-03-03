@@ -1,0 +1,81 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000eb;
+    background-image: url("../img/formation-developpeur-we-ecole-ewa-1.jpg");
+    background-size: cover;
+}
+
+/* navbar  */
+.navbar {
+    background-color: #00000000 !important;
+    border-radius: 2rem;
+
+}
+
+.container {
+    background-color: #a9a9a929 !important;
+    border-radius: 2rem;
+    overflow: hidden;
+}
+
+.navbar img {
+    width: 5rem;
+    padding: 0.5rem 0 0.5rem 0.9rem;
+}
+
+.navbar i {
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link:hover {
+    color: #d6d64d;
+}
+
+.navbar .search {
+    border-left: 1px solid #d6d64d;
+}
+
+.navbar .search svg {
+    color: #d6d64d;
+}
+
+
+.navbar .navbar-toggler {
+    color: #fff;
+    font-size: 25px;
+    border: none;
+}
+
+.navbar .navbar-toggler:focus {
+    color: #d6d64d;
+}
+
+.navbar .navbar-toggler .navbar .navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.btn {
+    background-color: #d6d64d;
+    transition: 0.5s ease-out;
+}
+
+.btn:hover {
+    background-color: #ae2573;
+    color: #d6d64d;
+    letter-spacing: 2px;
+}
+
+.landing {
+    margin-top: 30vh;
+}
+
+.landing p {
+    color: #ffffff;
+
+}
