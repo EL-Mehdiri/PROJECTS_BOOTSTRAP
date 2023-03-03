@@ -72,10 +72,37 @@ body {
 }
 
 .landing {
-    margin-top: 30vh;
+    margin-top: 25vh;
+    margin-left: 25vw;
+    background-color: #d6d64d19;
+    padding: 40px;
+    border-radius: 20px;
+    width: 60vw;
+    font-weight: 600;
+    box-shadow: 0 0 20px #ffffff97;
+}
+
+h1 {
+    margin-bottom: 2rem;
 }
 
 .landing p {
     color: #ffffff;
+    background-color: #d64d4d98;
+    display: inline;
+    padding: 0.1rem;
+}
+
+.size {
+    width: 20vh;
+    padding: 0.6rem;
+    margin-top: 2rem;
+}
+
+.margin {
+    margin: 50px 0;
+    word-spacing: 5px;
+    text-justify: distribute;
+    font-size: 25px;
 
 }
